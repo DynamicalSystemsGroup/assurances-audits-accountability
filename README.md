@@ -59,7 +59,7 @@ python scripts/build_cache.py
 
 ```bash
 # Setup
-git clone https://github.com/BlockScience/assurances-audits-accountability
+git clone https://github.com/DynamicalSystemsGroup/assurances-audits-accountability
 cd assurances-audits-accountability
 uv venv && source .venv/bin/activate
 uv pip install -r requirements.txt
@@ -232,11 +232,11 @@ The existence of this repository with passing audits proves the framework works.
 
 ## License
 
-**Copyright (c) 2025 Michael Zargham / Block Science. All rights reserved.**
+**Copyright (c) 2025 Michael Zargham / Dynamical Systems Group. All rights reserved.**
 
 This repository is currently **proprietary** and **not open source**. No license is granted for use, modification, or distribution without explicit written permission.
 
-We are actively researching the right balance between open source availability and commercial sustainability for this technology. If you are interested in using this framework, please reach out to us at **info@block.science**.
+We are actively researching the right balance between open source availability and commercial sustainability for this technology. If you are interested in using this framework, please reach out to us at **info@dynamicalsystemsgroup.com**.
 
 ### AI Training Restriction
 
